@@ -1,0 +1,38 @@
+{"blogs":
+[
+    {
+    "caption" : "This is the caption",
+    "author" : "Author Nameu",
+    "subj" : "This is the subject of the blog. Lol this aint a blog, and more of tweet kinda thing. But, whatever!"
+    }
+,
+    {
+    "caption" : "This is the json obj caption." ,
+    "author" : "JSON", 
+    "subj" : "This is the subj retrieved from the JSON file."
+    }
+,
+    {
+    "caption" : "This is the first blog in this website.",
+    "author" : "DMT",
+    "subj" : "This is the first post in this website. Lol this is actually working. Lets see how this goes.Lol lets add some matter so that we can see how the area is adjusted in order to display."
+    },
+    {
+        "caption" : "This is the caption",
+        "author" : "Author Nameu",
+        "subj" : "This is the subject of the blog. Lol this aint a blog, and more of tweet kinda thing. But, whatever!"
+        }
+    ,
+        {
+        "caption" : "This is the json obj caption." ,
+        "author" : "JSON", 
+        "subj" : "This is the subj retrieved from the JSON file."
+        }
+    ,
+        {
+        "caption" : "This is the first blog in this website.",
+        "author" : "DMT",
+        "subj" : "This is the first post in this website. Lol this is actually working. Lets see how this goes.Lol lets add some matter so that we can see how the area is adjusted in order to display."
+        }
+]
+}
